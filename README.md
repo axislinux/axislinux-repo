@@ -1,5 +1,9 @@
 # axislinux-repo
 
+> **Note**: We are switching to https://repo.axislinux.org as the address of the package repository.
+> 
+> **axislinux-repo remains on GitHub, just under a new website address.**
+
 <p align="center"><img alt="Axis Linux" src="https://user-images.githubusercontent.com/61242573/118399404-43c30480-b65d-11eb-9c81-82fccb9cf14e.png"/></p>
 
 <h3 align="center">Package repository for Axis Linux</h3>
